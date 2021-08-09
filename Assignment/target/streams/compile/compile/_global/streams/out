@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\User\Desktop\New folder (3)\q1\src\main\scala\Main.scala:15:22: '}' expected but eof found.[0m
+[0m[[0m[31merror[0m] [0m[0m    println(prime(8))[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
